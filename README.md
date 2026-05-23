@@ -2,4 +2,4 @@
 
 Apple iMessage Blue Number Screening System, a pure low-level protocol for filtering Apple iMessage blue number data. No ID required, 100% accurate iMessage blue number filtering. One computer, ready to use immediately. Supports phone numbers from any country worldwide. Multi-window, multi-threaded operation. Screening speed is lightning fast!
 
-搭建联系客服: @im33166 (https://t.me/im33166)
+苹果iMessage蓝号筛选系统，搭建Telegram联系: @im33166 (https://t.me/im33166)
