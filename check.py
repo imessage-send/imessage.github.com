@@ -1,6 +1,6 @@
 '''
     协议版 苹果iMessage蓝号筛选，协议检测手机号是否精准开启iMessage服务
-	Telegram：@im33166 (https://t.me/im33166)
+	电报Telegram：@im33166 (https://t.me/im33166)
 '''
 import time
 import os
